@@ -1,0 +1,14 @@
+layout_spectrum: 0.9636633156333119
+typography_spectrum: 0.8908145071472973
+color:
+  brandStrength: 0.5352531392127275
+  lightness: 0.7629617075435817
+  saturation: 0.22070634714327753
+  rhythmicContrast: 0.48725690599530935
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: TheGridFirstSite
