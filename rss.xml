@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheGridFirstSite]]></title>
+        <description><![CDATA[TheGridFirstSite]]></description>
+        <link>https://thegrid.ai/thegridfirstsite/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 15 Jun 2016 21:55:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thegridfirstsite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA['Light field' camera maker Lytro announces professional VR video rig]]></title>
+            <description><![CDATA[<article><h1>'Light field' camera maker Lytro announces professional VR video rig</h1><p>Camera maker Lytro drew our attention three years ago with what it called "light field" photography. Instead of focusing at a specific depth, its camera would capture everything in range of its finder, so you could do things like pick a focus after taking the picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/656906e37edfa8831a9d2951c445a7cf45513621.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2015/11/5/9671564/lytro-immerge-light-field-vr-video-camera</link>
+            <guid isPermaLink="false">39ad56aa-e81e-4052-bd29-3ca188f54e80</guid>
+            <pubDate>Wed, 15 Jun 2016 21:55:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[eero: No More Internet Dead Zones]]></title>
+            <description><![CDATA[<article><h1>eero: No More Internet Dead Zones</h1><p>Nearly all homes have a WiFi dead zone: you never get messages in the kitchen, you can't watch Netflix in the bedroom, you can't FaceTime in the backyard. This is simply because most of us have one WiFi router for our entire home, and that just doesn't work for how we use Internet today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75956575966b1c70c11ff614cb972cd2133a6a9.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/eero-wifi-that-works</link>
+            <guid isPermaLink="false">53d674cd-4bb2-4583-ab04-c02a7a7188d7</guid>
+            <pubDate>Wed, 15 Jun 2016 21:55:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What it's like to ride in the Tesla Model 3]]></title>
+            <description><![CDATA[<article><h1>What it's like to ride in the Tesla Model 3</h1><p>HAWTHORNE, California - I've had a terrible flu all week. My body aches, my head is pounding, and my throat feels like it might fall out of my neck. Right now, though, I'm riding in the Tesla Model 3, one of the most hotly anticipated cars in the world...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7072e2c8eecfad7b01c2532650be669c8647d676.jpg"></article>]]></description>
+            <link>http://mashable.com/2016/04/01/tesla-model-3-first-ride/#GmuWjVf0GZqo</link>
+            <guid isPermaLink="false">8053221b-d5d6-44e3-8dc7-d74db5f5da4f</guid>
+            <pubDate>Wed, 15 Jun 2016 21:55:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
